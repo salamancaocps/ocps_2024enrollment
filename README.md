@@ -3,11 +3,7 @@
 ## Analysis Project
 
 ### Privacy Disclaimer
-This repository may contain sensitive and confidential information that includes data protected under Florida's Sunshine Laws. Unauthorized disclosure, distribution, or copying of this data is strictly prohibited. This document is intended solely for the use of the authorized recipient(s) and is not for public disclosure.
-
-If you are not the intended recipient, please notify the sender immediately, delete this notebook from your system, and do not disclose its contents to any other person, use it for any purpose, or store or copy any of the information contained herein.
-
-By accessing and using this notebook, you agree to comply with all applicable confidentiality and data protection laws and policies.
+As required by Section 668.6076, Florida Statutes, you are hereby notified that: Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public records request, do not send electronic mail to this entity or publish comments on this repository. Instead, contact this office by phone or in writing. History.--s. 1, ch. 2006-232.
 
 ### Attributions
 (C) Dariel Cruz Rodriguez, 2024, under work for Orange County Public Schools.
